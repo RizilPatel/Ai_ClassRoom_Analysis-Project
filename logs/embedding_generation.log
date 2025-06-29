@@ -1,0 +1,2 @@
+2025-04-21 23:32:03,440 - __main__ - INFO - Starting embedding generation
+2025-04-21 23:36:05,473 - __main__ - INFO - Embeddings generated for 5 students and saved to models/embeddings.pkl

@@ -1,0 +1,458 @@
+[
+  {
+    "timestamp": "2025-04-23 12:09:37",
+    "filename": "2025-04-23_12-09-37.jpg",
+    "insights": {
+      "class_session": {
+        "date": "2025-04-23 12:58:35",
+        "total_faces_detected": 5
+      },
+      "attendance": {
+        "present_students": [
+          "Abhishek",
+          "Tejas",
+          "Harshal",
+          "Dnyanesh",
+          "Shashank"
+        ],
+        "unknown_individuals": 0,
+        "absent_students": []
+      },
+      "engagement": {
+        "most_common_emotion": "neutral",
+        "average_engagement_score": 0.5799999999999998,
+        "most_engaged_student": "Tejas",
+        "least_engaged_student": "Dnyanesh"
+      },
+      "student_details": [
+        {
+          "name": "Abhishek",
+          "primary_emotion": {
+            "emotion": "neutral",
+            "confidence": 99.72813129425049
+          },
+          "secondary_emotion": {
+            "emotion": "happy",
+            "confidence": 0.18819154938682914
+          },
+          "engagement_score": 0.7,
+          "attention_direction": "forward"
+        },
+        {
+          "name": "Tejas",
+          "primary_emotion": {
+            "emotion": "happy",
+            "confidence": 97.49328464189584
+          },
+          "secondary_emotion": {
+            "emotion": "neutral",
+            "confidence": 2.0247480451760347
+          },
+          "engagement_score": 0.9,
+          "attention_direction": "right"
+        },
+        {
+          "name": "Harshal",
+          "primary_emotion": {
+            "emotion": "neutral",
+            "confidence": 93.24902892112732
+          },
+          "secondary_emotion": {
+            "emotion": "happy",
+            "confidence": 5.223852023482323
+          },
+          "engagement_score": 0.7,
+          "attention_direction": "forward"
+        },
+        {
+          "name": "Dnyanesh",
+          "primary_emotion": {
+            "emotion": "angry",
+            "confidence": 38.98729217203949
+          },
+          "secondary_emotion": {
+            "emotion": "fear",
+            "confidence": 27.76668336788614
+          },
+          "engagement_score": 0.3,
+          "attention_direction": "forward"
+        },
+        {
+          "name": "Shashank",
+          "primary_emotion": {
+            "emotion": "angry",
+            "confidence": 57.89087414741516
+          },
+          "secondary_emotion": {
+            "emotion": "neutral",
+            "confidence": 30.12811541557312
+          },
+          "engagement_score": 0.3,
+          "attention_direction": "left"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-04-23 12:10:07",
+    "filename": "2025-04-23_12-10-07.jpg",
+    "insights": {
+      "class_session": {
+        "date": "2025-04-23 12:58:41",
+        "total_faces_detected": 5
+      },
+      "attendance": {
+        "present_students": [
+          "Abhishek",
+          "Harshal",
+          "Dnyanesh",
+          "Tejas",
+          "Shashank"
+        ],
+        "unknown_individuals": 0,
+        "absent_students": []
+      },
+      "engagement": {
+        "most_common_emotion": "neutral",
+        "average_engagement_score": 0.58,
+        "most_engaged_student": "Shashank",
+        "least_engaged_student": "Abhishek"
+      },
+      "student_details": [
+        {
+          "name": "Abhishek",
+          "primary_emotion": {
+            "emotion": "fear",
+            "confidence": 52.78419852256775
+          },
+          "secondary_emotion": {
+            "emotion": "neutral",
+            "confidence": 40.23565649986267
+          },
+          "engagement_score": 0.2,
+          "attention_direction": "up"
+        },
+        {
+          "name": "Harshal",
+          "primary_emotion": {
+            "emotion": "sad",
+            "confidence": 45.16623914241791
+          },
+          "secondary_emotion": {
+            "emotion": "angry",
+            "confidence": 34.4131201505661
+          },
+          "engagement_score": 0.4,
+          "attention_direction": "left"
+        },
+        {
+          "name": "Dnyanesh",
+          "primary_emotion": {
+            "emotion": "neutral",
+            "confidence": 68.82637553372237
+          },
+          "secondary_emotion": {
+            "emotion": "fear",
+            "confidence": 16.749524578423774
+          },
+          "engagement_score": 0.7,
+          "attention_direction": "forward"
+        },
+        {
+          "name": "Tejas",
+          "primary_emotion": {
+            "emotion": "neutral",
+            "confidence": 99.7347533544751
+          },
+          "secondary_emotion": {
+            "emotion": "sad",
+            "confidence": 0.21665044023248198
+          },
+          "engagement_score": 0.7,
+          "attention_direction": "down"
+        },
+        {
+          "name": "Shashank",
+          "primary_emotion": {
+            "emotion": "happy",
+            "confidence": 79.56346517044722
+          },
+          "secondary_emotion": {
+            "emotion": "angry",
+            "confidence": 16.33172585586001
+          },
+          "engagement_score": 0.9,
+          "attention_direction": "forward"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-04-23 12:10:41",
+    "filename": "2025-04-23_12-10-41.jpg",
+    "insights": {
+      "class_session": {
+        "date": "2025-04-23 12:58:48",
+        "total_faces_detected": 5
+      },
+      "attendance": {
+        "present_students": [
+          "Dnyanesh",
+          "Dnyanesh",
+          "Harshal",
+          "Tejas",
+          "Shashank"
+        ],
+        "unknown_individuals": 0,
+        "absent_students": []
+      },
+      "engagement": {
+        "most_common_emotion": "happy",
+        "average_engagement_score": 0.6,
+        "most_engaged_student": "Tejas",
+        "least_engaged_student": "Dnyanesh"
+      },
+      "student_details": [
+        {
+          "name": "Dnyanesh",
+          "primary_emotion": {
+            "emotion": "fear",
+            "confidence": 43.6961829662323
+          },
+          "secondary_emotion": {
+            "emotion": "neutral",
+            "confidence": 40.455058217048645
+          },
+          "engagement_score": 0.3,
+          "attention_direction": "right"
+        },
+        {
+          "name": "Dnyanesh",
+          "primary_emotion": {
+            "emotion": "angry",
+            "confidence": 53.37001721501556
+          },
+          "secondary_emotion": {
+            "emotion": "fear",
+            "confidence": 32.2493084966312
+          },
+          "engagement_score": 0.3,
+          "attention_direction": "right"
+        },
+        {
+          "name": "Harshal",
+          "primary_emotion": {
+            "emotion": "neutral",
+            "confidence": 60.724449157714844
+          },
+          "secondary_emotion": {
+            "emotion": "sad",
+            "confidence": 26.16487443447113
+          },
+          "engagement_score": 0.7,
+          "attention_direction": "left"
+        },
+        {
+          "name": "Tejas",
+          "primary_emotion": {
+            "emotion": "happy",
+            "confidence": 97.20457196235657
+          },
+          "secondary_emotion": {
+            "emotion": "neutral",
+            "confidence": 1.7489880323410034
+          },
+          "engagement_score": 0.9,
+          "attention_direction": "right"
+        },
+        {
+          "name": "Shashank",
+          "primary_emotion": {
+            "emotion": "happy",
+            "confidence": 87.50262409417343
+          },
+          "secondary_emotion": {
+            "emotion": "angry",
+            "confidence": 5.417954275851932
+          },
+          "engagement_score": 0.9,
+          "attention_direction": "forward"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-04-23 12:10:50",
+    "filename": "2025-04-23_12-10-50.jpg",
+    "insights": {
+      "class_session": {
+        "date": "2025-04-23 12:58:54",
+        "total_faces_detected": 5
+      },
+      "attendance": {
+        "present_students": [
+          "Abhishek",
+          "Tejas",
+          "Dnyanesh",
+          "Shashank"
+        ],
+        "unknown_individuals": 1,
+        "absent_students": []
+      },
+      "engagement": {
+        "most_common_emotion": "neutral",
+        "average_engagement_score": 0.475,
+        "most_engaged_student": "Tejas",
+        "least_engaged_student": "Shashank"
+      },
+      "student_details": [
+        {
+          "name": "Abhishek",
+          "primary_emotion": {
+            "emotion": "angry",
+            "confidence": 66.16730488343865
+          },
+          "secondary_emotion": {
+            "emotion": "neutral",
+            "confidence": 22.099554365846775
+          },
+          "engagement_score": 0.3,
+          "attention_direction": "right"
+        },
+        {
+          "name": "Tejas",
+          "primary_emotion": {
+            "emotion": "neutral",
+            "confidence": 99.96776580810547
+          },
+          "secondary_emotion": {
+            "emotion": "sad",
+            "confidence": 0.02052259660558775
+          },
+          "engagement_score": 0.7,
+          "attention_direction": "left"
+        },
+        {
+          "name": "Dnyanesh",
+          "primary_emotion": {
+            "emotion": "neutral",
+            "confidence": 84.3343734741211
+          },
+          "secondary_emotion": {
+            "emotion": "fear",
+            "confidence": 9.207974374294281
+          },
+          "engagement_score": 0.7,
+          "attention_direction": "forward"
+        },
+        {
+          "name": "Shashank",
+          "primary_emotion": {
+            "emotion": "fear",
+            "confidence": 58.036268715413655
+          },
+          "secondary_emotion": {
+            "emotion": "surprise",
+            "confidence": 38.57831520775738
+          },
+          "engagement_score": 0.2,
+          "attention_direction": "forward"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-04-23 12:11:08",
+    "filename": "2025-04-23_12-11-08.jpg",
+    "insights": {
+      "class_session": {
+        "date": "2025-04-23 12:59:01",
+        "total_faces_detected": 5
+      },
+      "attendance": {
+        "present_students": [
+          "Dnyanesh",
+          "Abhishek",
+          "Tejas",
+          "Harshal",
+          "Shashank"
+        ],
+        "unknown_individuals": 0,
+        "absent_students": []
+      },
+      "engagement": {
+        "most_common_emotion": "happy",
+        "average_engagement_score": 0.68,
+        "most_engaged_student": "Abhishek",
+        "least_engaged_student": "Shashank"
+      },
+      "student_details": [
+        {
+          "name": "Dnyanesh",
+          "primary_emotion": {
+            "emotion": "neutral",
+            "confidence": 73.74516725540161
+          },
+          "secondary_emotion": {
+            "emotion": "happy",
+            "confidence": 26.131319999694824
+          },
+          "engagement_score": 0.7,
+          "attention_direction": "forward"
+        },
+        {
+          "name": "Abhishek",
+          "primary_emotion": {
+            "emotion": "happy",
+            "confidence": 61.59878144256958
+          },
+          "secondary_emotion": {
+            "emotion": "neutral",
+            "confidence": 38.34506501824051
+          },
+          "engagement_score": 0.9,
+          "attention_direction": "forward"
+        },
+        {
+          "name": "Tejas",
+          "primary_emotion": {
+            "emotion": "happy",
+            "confidence": 98.73101696145737
+          },
+          "secondary_emotion": {
+            "emotion": "neutral",
+            "confidence": 1.2597348180097125
+          },
+          "engagement_score": 0.9,
+          "attention_direction": "forward"
+        },
+        {
+          "name": "Harshal",
+          "primary_emotion": {
+            "emotion": "neutral",
+            "confidence": 91.24100908744227
+          },
+          "secondary_emotion": {
+            "emotion": "sad",
+            "confidence": 5.034415196250058
+          },
+          "engagement_score": 0.7,
+          "attention_direction": "forward"
+        },
+        {
+          "name": "Shashank",
+          "primary_emotion": {
+            "emotion": "fear",
+            "confidence": 68.72421875903383
+          },
+          "secondary_emotion": {
+            "emotion": "angry",
+            "confidence": 25.1018404839229
+          },
+          "engagement_score": 0.2,
+          "attention_direction": "forward"
+        }
+      ]
+    }
+  }
+]
